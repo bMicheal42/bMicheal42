@@ -3,7 +3,7 @@
 
 <g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">🔧</g-emoji>
 
- &#128187; My Technologies
+# &#128187; My Technologies
 
 ### - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
