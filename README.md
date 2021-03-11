@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<#FCC624>&logoColor=white&color=2bbc8a)
 <!--
 **bMicheal42/bMicheal42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
