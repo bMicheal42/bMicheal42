@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">
 
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=bMicheal42&theme=blue-green)
