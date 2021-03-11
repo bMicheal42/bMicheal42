@@ -1,8 +1,4 @@
 ### Hi there 👋
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-
-
-
 
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=bMicheal42&theme=blue-green)
@@ -11,7 +7,7 @@
 
 ** &#128187; My Technologies
 
-- 🔭 I’m currently working on ... 
+### - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
