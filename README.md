@@ -1,10 +1,10 @@
 ### Hi there 👋
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<#FCC624>&logoColor=white&color=2bbc8a)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
 <!--
 **bMicheal42/bMicheal42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ** &#128187; My Technologies
-### ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
