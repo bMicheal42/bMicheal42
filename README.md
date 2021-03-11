@@ -3,9 +3,7 @@
 
 <g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">🔧</g-emoji>
 
-**bMicheal42/bMicheal42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-** &#128187; My Technologies
+ &#128187; My Technologies
 
 ### - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
