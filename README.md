@@ -1,8 +1,7 @@
 # Hi Peers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">
 ## Welcome to my Git!
 
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=bMicheal42&theme=blue-green)
+<g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">🔧</g-emoji>
 
 **bMicheal42/bMicheal42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
