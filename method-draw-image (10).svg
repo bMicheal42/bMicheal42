@@ -1,0 +1,227 @@
+<svg width="1500" height="500.00000000000006" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <clipPath id="clip0">
+   <rect width="1500" height="500" fill="#fff" id="rect41"/>
+  </clipPath>
+  <clipPath id="clip1">
+   <rect x="1261" y="188" width="50" height="50" fill="#fff" id="rect44"/>
+  </clipPath>
+  <clipPath id="spec-left">
+   <path id="path5554" fill="#333" d="m-387.72908,634.05765c-10,1 -25,1 -28,13c-3,15 -3,32 6,45c7,11 23,9 35,9c19,-1 35,-16 40,-34c2,-8 4,-14 1,-19c-6,-10 -20,-12 -31,-13l-23,-1z"/>
+  </clipPath>
+  <clipPath id="spec-right">
+   <path id="path5557" fill="#333" d="m-257.72908,634.05765c10,1 24,1 28,13c3,15 3,32 -6,45c-7,11 -23,9 -35,9c-19,-1 -35,-16 -40,-34c-2,-8 -4,-14 -1,-19c6,-10 20,-12 31,-13l23,-1z"/>
+  </clipPath>
+  <style type="text/css">svg { --fur: #662900; --ear: #e4b89b; --cap-strap--large: #f00; --cap-strap--small: #900; --cap: #0d0d0d; --dots: rgba(242,242,242,0.6); --frame: #000; --shine: rgba(242,242,242,0.35); --lens: #595959; --code-one: rgba(128,230,25,0.5); --code-two: rgba(229,230,25,0.5); --code-three: rgba(230,25,128,0.5); --code-four: rgba(25,195,230,0.5); } .code-block { -webkit-animation: read 1s infinite linear; animation: read 1s infinite linear; } .code-block rect { fill: var(--code-one); } .code-block rect:nth-of-type(5) { fill: var(--code-four); } .code-block rect:nth-of-type(8), .code-block rect:nth-of-type(9) { fill: var(--code-two); } .code-block rect:nth-of-type(12) { fill: var(--code-three); } .bear__fur, .bear__outer-ear { fill: var(--fur); } .bear__inner-ear, .bear__muzzle { fill: var(--ear); } .bear__cap-strap { fill: var(--cap-strap--large); } .bear__small-cap-strap { fill: var(--cap-strap--small); } .bear__cap { fill: var(--cap); } .lens { fill: var(--lens); } .lens__shine { fill: var(--shine); } .shades-dot { fill: var(--dots); } .bear__nose, .shades-frame { fill: var(--frame); } @-webkit-keyframes read { to { -webkit-transform: translate(0, -283.5px); transform: translate(0, -283.5px); } } @keyframes read { to { -webkit-transform: translate(0, -283.5px); transform: translate(0, -283.5px); } }</style>
+  <g id="code-block" class="code-block">
+   <rect id="rect5505" width="74" height="7.5" x="60" y="862"/>
+   <rect id="rect5507" width="28" height="7.5" x="96" y="874"/>
+   <rect id="rect5509" y="886" x="60" height="7.5" width="54"/>
+   <rect id="rect5511" width="74" height="7.5" x="60" y="897"/>
+   <rect id="rect5513" y="909" x="78" height="7.5" width="56"/>
+   <rect id="rect5515" width="51" height="7.5" x="83" y="921"/>
+   <rect id="rect5517" y="932" x="73" height="7.5" width="51"/>
+   <rect id="rect5519" width="62" height="7.5" x="72" y="944"/>
+   <rect id="rect5521" y="956" x="60" height="7.5" width="74"/>
+   <rect id="rect5523" width="84" height="7.5" x="50" y="967"/>
+   <rect id="rect5525" y="979" x="60" height="7.5" width="64"/>
+   <rect id="rect5527" width="74" height="7.5" x="60" y="991"/>
+   <rect id="rect5529" y="1003" x="93" height="7.5" width="41"/>
+   <rect id="rect5531" width="58" height="7.5" x="66" y="1014"/>
+   <rect id="rect5533" y="1026" x="56" height="7.5" width="58"/>
+   <rect id="rect5535" width="74" height="7.5" x="50" y="1038"/>
+   <rect id="rect5537" y="1049" x="88" height="7.5" width="46"/>
+   <rect id="rect5539" width="19" height="7.5" x="105" y="1061"/>
+   <rect id="rect5541" y="1073" x="96" height="7.5" width="38"/>
+   <rect id="rect5543" width="51" height="7.5" x="73" y="1084"/>
+   <rect id="rect5545" width="26" height="7.5" x="88" y="1096"/>
+   <rect id="rect5547" y="1108" x="68" height="7.5" width="56"/>
+   <rect id="rect5549" width="24" height="7.5" x="100" y="1120"/>
+   <rect id="rect5551" y="1131" x="50" height="7.5" width="74"/>
+  </g>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_65_blur">
+   <feGaussianBlur stdDeviation="2"/>
+  </filter>
+  <filter id="svg_121_blur">
+   <feGaussianBlur stdDeviation="0"/>
+  </filter>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_150_blur">
+   <feGaussianBlur stdDeviation="0"/>
+  </filter>
+  <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+   <use xlink:href="#image0" transform="scale(0.004999999888241291) " id="use38"/>
+  </pattern>
+  <pattern id="svg_119" patternContentUnits="objectBoundingBox" width="1" height="1">
+   <use xlink:href="#image0" transform="scale(0.004999999888241291) " id="svg_122" stroke="null"/>
+  </pattern>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="502" width="1502" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect y="0" x="-16.666669" id="svg_2" width="1500" height="500" fill="#1E1E1E"/>
+  <rect id="svg_4" x="150.849961" y="114.540878" width="1614.3" height="759.9" transform="rotate(-37 957.9999389648441,494.49090576171886) " fill="#56ffaa"/>
+  <g stroke="null" id="svg_48"/>
+  <g stroke="null" id="svg_61">
+   <polygon stroke="null" points="1033.4969482421875,275.0242004394531 1149.1817626953125,275.0242004394531 1149.1817626953125,332.9890441894531 1206.901123046875,332.9890441894531 1206.901123046875,228.2386932373047 1091.427001953125,228.2386932373047 1206.901123046875,112.51921081542969 1149.1817626953125,112.51921081542969 1033.4969482421875,228.2386932373047 " id="svg_59"/>
+   <polygon stroke="null" points="1231.8182373046875,170.44894409179688 1289.572998046875,112.51921081542969 1231.8182373046875,112.51921081542969 " id="svg_58"/>
+   <polygon stroke="null" points="1289.572998046875,170.44894409179688 1231.8182373046875,228.2386932373047 1231.8182373046875,285.9933166503906 1289.572998046875,285.9933166503906 1289.572998046875,228.2386932373047 1347.5030517578125,170.44894409179688 1347.5030517578125,112.51921081542969 1289.572998046875,112.51921081542969 " id="svg_57"/>
+   <polygon stroke="null" points="1347.5030517578125,228.2386932373047 1289.572998046875,285.9933166503906 1347.5030517578125,285.9933166503906 " id="svg_56"/>
+  </g>
+  <metadata id="svg_111">image/svg+xmlOpenclipart2011-05-08T09:05:16A single color robe illustration.https://openclipart.org/detail/137203/robe-by-jgm104jgm104capecoatcoverrobeshawl</metadata>&lt;/&gt;
+  <g stroke="null" filter="url(#svg_150_blur)" id="svg_150">
+   <path stroke="null" fill="#88888c" id="svg_148" d="m968.91127,604.45179s-2.01924,-198.86952 -38.66766,-239.12704c-20.86753,-22.92752 -59.28692,-54.6164 -70.0399,-75.38081c-19.05375,20.83863 -40.81899,24.34365 -40.81899,24.34365c10.42275,-5.03009 25.4099,-19.61282 37.96319,-33.14691c-0.82922,-12.95112 -2.08895,-110.71597 -36.2864,-172.68957c-17.35373,-31.44827 -34.5766,-44.60409 -82.13332,-41.86519c-21.19041,1.22102 -33.54313,11.94319 -64.70621,43.66439c-31.16064,31.7212 -28.40758,150.14871 -28.40758,173.33599c0,2.91008 -0.44519,5.83931 -1.29153,8.78411c9.90174,9.54425 24.26147,22.37087 36.18612,28.99068l-41.29232,-17.65322c-10.24419,16.99004 -31.73791,34.42659 -56.67694,51.86074c-34.90192,24.40111 -39.65099,250.1042 -39.65099,250.1042l45.24885,0c5.73239,-32.25031 13.13668,-81.05014 13.13668,-117.91636c0,0 4.28921,71.42089 -5.319,117.91636l75.29285,0c-4.95087,-39.77511 -10.6478,-73.70132 -10.6478,-73.70132c7.47279,28.57889 13.00705,52.92135 17.03452,73.70132l7.47523,0c-3.39761,-18.63123 -6.16658,-37.30794 -6.16658,-48.70406c0,0 5.31289,23.07714 10.25276,48.70406l31.19121,0c-3.30832,-58.5009 -17.09689,-140.60805 -17.09689,-140.60805c17.73043,67.80813 24.6027,111.90945 26.10337,140.60805l24.29204,0s12.09465,-198.11537 -8.28733,-254.00665c0,0 0.0049,0.00838 0.01468,0.02035c-3.17624,-5.7651 -6.81356,-10.76886 -10.97312,-14.8389c-54.8485,-53.68149 -66.47718,-86.20951 -68.96974,-147.21588c-2.49255,-61.00038 49.57108,-101.26389 75.75027,-102.4837c19.91967,-0.92893 63.57246,35.38065 74.79019,59.78176s8.17603,93.5308 -25.47839,150.86695c-16.33249,27.82832 -32.17821,51.25142 -39.662,76.22354c5.64556,17.91777 17.05164,49.22478 20.26457,96.21823c3.57984,52.34315 0,134.20371 0,134.20371l38.98076,0c1.75873,-39.56562 -0.17612,-86.06228 -0.17612,-86.06228c7.04472,37.74128 8.62978,65.60193 7.53271,86.06228l25.48451,0c0.82188,-75.39757 13.35316,-176.83144 13.35316,-176.83144c-3.0735,60.69274 -2.98055,126.90158 -2.16723,176.83144l55.18239,0c0.77419,-21.96866 2.30299,-45.63717 5.30311,-58.69123c0,0 0.01101,29.35339 -1.27319,58.69123l55.35484,0l0.00122,0.00957zm-252.66805,-264.2057s-36.51512,10.77964 -60.28125,-12.48186c0,0 17.39164,15.89711 60.28369,12.48546l-0.00244,-0.0036zm75.35156,12.48546c0.53202,-0.17357 1.07505,-0.36271 1.61686,-0.55664c-1.02736,0.35913 -1.61442,0.55066 -1.61442,0.55066l-0.00244,0.00598zm2.17701,-0.75415c20.71954,-7.50804 48.82747,-27.61166 48.82747,-27.61166c-15.19017,14.8796 -41.17979,24.88712 -48.8238,27.61645l-0.00367,-0.00479z"/>
+  </g>
+  <g stroke="null" fill="#4d4d4d" transform="matrix(0.9473353728805194,0,0,0.9122667882407426,-277.7058603772516,-2228.5627532985586) " id="svg_101">
+   <path stroke="#000000" fill="#4d4d4d" stroke-width="2.19933" d="m928.45735,3081.46644l0,7.61173c0,7.14876 5.732,12.90704 12.8733,12.90704l22.7519,0.00019l0,-3.63982l247.6623,0l0,3.63982l21.5072,0c7.141,0 12.8925,-5.75818 12.8925,-12.90723l0,-7.61179l-317.6973,0l0.0101,0.00006z" id="svg_103"/>
+   <path stroke="#000000" fill="#4d4d4d" stroke-width="2.19933" d="m924.03812,2867.60537l321.5978,0c7.86726,0 14.20076,5.6993 14.20076,12.7786l-10.51798,193.3278c0,7.0794 -5.2159,12.779 -13.08285,12.779l-299.21428,0c-7.86726,0 -16.88735,-5.6994 -16.88735,-12.779l-10.29402,-193.3278c0,-7.0793 6.3335,-12.7786 14.20076,-12.7786l-0.00284,0z" id="svg_102"/>
+  </g>
+  <g stroke="null" filter="url(#svg_121_blur)" id="svg_121">
+   <path stroke="null" fill="#000000" id="svg_120" d="m750.31724,467.10474c-1.9787,0 -5.04067,-2.25004 -8.26545,-2.17073c-4.25796,0.05636 -8.1611,2.4692 -10.35478,6.29093c-4.41868,7.6706 -1.13963,19.00011 3.17051,25.23469c2.11437,3.03484 4.60862,6.44956 7.9148,6.34311c3.1726,-0.13567 4.36232,-2.0601 8.21328,-2.0601c3.82173,0 4.905,2.0601 8.26545,1.9787c3.41681,-0.05427 5.58545,-3.08911 7.67268,-6.15317c2.41285,-3.52326 3.41472,-6.94006 3.46899,-7.12792c-0.0814,-0.02713 -6.64159,-2.54851 -6.7209,-10.1377c-0.05427,-6.3452 5.17634,-9.38004 5.42055,-9.51571c-2.98266,-4.36233 -7.56206,-4.85074 -9.16297,-4.95928c-4.17447,-0.32561 -7.67059,2.27509 -9.62216,2.27509l0,0.00209zm7.05069,-6.39947c1.75954,-2.11228 2.92213,-5.06572 2.59861,-7.99411c-2.5193,0.10853 -5.55623,1.68022 -7.37212,3.79459c-1.62805,1.87017 -3.03484,4.87996 -2.65705,7.752c2.79272,0.21707 5.66684,-1.43602 7.42847,-3.55039"/>
+  </g>
+  <metadata id="svg_147">image/svg+xmlOpenclipart2011-05-08T09:05:16A single color robe illustration.https://openclipart.org/detail/137203/robe-by-jgm104jgm104capecoatcoverrobeshawl</metadata>
+  <text style="cursor: move;" filter="url(#svg_65_blur)" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="32" id="svg_65" y="463.644287" x="971" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">Crash your projects with enjoy</text>
+  <g id="svg_154" stroke="null">
+   <defs>
+    <clipPath id="svg_80">
+     <rect width="1500" height="500" fill="#fff" id="svg_153" y="19954.160812" x="59594.284607" stroke="null"/>
+    </clipPath>
+    <clipPath id="svg_106">
+     <rect x="60855.284607" y="20142.160812" width="50" height="50" fill="#fff" id="svg_152" stroke="null"/>
+    </clipPath>
+    <clipPath id="svg_89">
+     <path id="svg_151" fill="#333" d="m44295.74149,15713.43671c-10,1 -25,1 -28,13c-3,15 -3,32 6,45c7,11 23,9 35,9c19,-1 35,-16 40,-34c2,-8 4,-14 1,-19c-6,-10 -20,-12 -31,-13l-23,-1z" stroke="null"/>
+    </clipPath>
+    <clipPath id="svg_84">
+     <path id="svg_149" fill="#333" d="m44425.74149,15713.43671c10,1 24,1 28,13c3,15 3,32 -6,45c-7,11 -23,9 -35,9c-19,-1 -35,-16 -40,-34c-2,-8 -4,-14 -1,-19c6,-10 20,-12 31,-13l23,-1z" stroke="null"/>
+    </clipPath>
+    <style type="text/css">svg { --fur: #662900; --ear: #e4b89b; --cap-strap--large: #f00; --cap-strap--small: #900; --cap: #0d0d0d; --dots: rgba(242,242,242,0.6); --frame: #000; --shine: rgba(242,242,242,0.35); --lens: #595959; --code-one: rgba(128,230,25,0.5); --code-two: rgba(229,230,25,0.5); --code-three: rgba(230,25,128,0.5); --code-four: rgba(25,195,230,0.5); } .code-block { -webkit-animation: read 1s infinite linear; animation: read 1s infinite linear; } .code-block rect { fill: var(--code-one); } .code-block rect:nth-of-type(5) { fill: var(--code-four); } .code-block rect:nth-of-type(8), .code-block rect:nth-of-type(9) { fill: var(--code-two); } .code-block rect:nth-of-type(12) { fill: var(--code-three); } .bear__fur, .bear__outer-ear { fill: var(--fur); } .bear__inner-ear, .bear__muzzle { fill: var(--ear); } .bear__cap-strap { fill: var(--cap-strap--large); } .bear__small-cap-strap { fill: var(--cap-strap--small); } .bear__cap { fill: var(--cap); } .lens { fill: var(--lens); } .lens__shine { fill: var(--shine); } .shades-dot { fill: var(--dots); } .bear__nose, .shades-frame { fill: var(--frame); } @-webkit-keyframes read { to { -webkit-transform: translate(0, -283.5px); transform: translate(0, -283.5px); } } @keyframes read { to { -webkit-transform: translate(0, -283.5px); transform: translate(0, -283.5px); } }</style>
+    <g id="svg_86" class="code-block" stroke="null">
+     <rect id="svg_146" width="74" height="7.5" x="60" y="862" stroke="null"/>
+     <rect id="svg_145" width="28" height="7.5" x="96" y="874" stroke="null"/>
+     <rect id="svg_144" y="886" x="60" height="7.5" width="54" stroke="null"/>
+     <rect id="svg_143" width="74" height="7.5" x="60" y="897" stroke="null"/>
+     <rect id="svg_142" y="909" x="78" height="7.5" width="56" stroke="null"/>
+     <rect id="svg_141" width="51" height="7.5" x="83" y="921" stroke="null"/>
+     <rect id="svg_140" y="932" x="73" height="7.5" width="51" stroke="null"/>
+     <rect id="svg_139" width="62" height="7.5" x="72" y="944" stroke="null"/>
+     <rect id="svg_138" y="956" x="60" height="7.5" width="74" stroke="null"/>
+     <rect id="svg_137" width="84" height="7.5" x="50" y="967" stroke="null"/>
+     <rect id="svg_136" y="979" x="60" height="7.5" width="64" stroke="null"/>
+     <rect id="svg_135" width="74" height="7.5" x="60" y="991" stroke="null"/>
+     <rect id="svg_134" y="1003" x="93" height="7.5" width="41" stroke="null"/>
+     <rect id="svg_133" width="58" height="7.5" x="66" y="1014" stroke="null"/>
+     <rect id="svg_132" y="1026" x="56" height="7.5" width="58" stroke="null"/>
+     <rect id="svg_131" width="74" height="7.5" x="50" y="1038" stroke="null"/>
+     <rect id="svg_130" y="1049" x="88" height="7.5" width="46" stroke="null"/>
+     <rect id="svg_129" width="19" height="7.5" x="105" y="1061" stroke="null"/>
+     <rect id="svg_128" y="1073" x="96" height="7.5" width="38" stroke="null"/>
+     <rect id="svg_127" width="51" height="7.5" x="73" y="1084" stroke="null"/>
+     <rect id="svg_126" width="26" height="7.5" x="88" y="1096" stroke="null"/>
+     <rect id="svg_125" y="1108" x="68" height="7.5" width="56" stroke="null"/>
+     <rect id="svg_124" width="24" height="7.5" x="100" y="1120" stroke="null"/>
+     <rect id="svg_123" y="1131" x="50" height="7.5" width="74" stroke="null"/>
+    </g>
+   </defs>
+   <g id="svg_155" transform="matrix(0.01389267435877901,0,0,0.01389267435877901,-101.10489416591008,-0.10405382039280653) " stroke="null">
+    <title>background</title>
+    <rect fill="none" id="svg_118" height="402" width="582" y="18657.513924" x="60383.076431" stroke="null"/>
+   </g>
+   <g id="svg_81" transform="matrix(0.6531221637002845,0,0,0.6531221637002845,-28226.991105524867,-10111.748513381046) " stroke="null">
+    <path id="svg_100" d="m44400.74149,15684.43671l0,-11l0,11z" class="bear__small-cap-strap" stroke="null"/>
+    <circle id="svg_99" r="11.2" cy="15747.536704" cx="44307.941495" class="bear__eye" stroke="null"/>
+    <circle id="svg_98" r="11.2" cx="44412.641495" cy="15747.536704" class="bear__eye" stroke="null"/>
+    <path id="svg_97" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="m44307.74149,15717.43671a21,21 0 0 1 -7,16a21,21 0 0 1 -16,5m130,-21a21,21 0 0 0 6,16a21,21 0 0 0 16,5" class="bear__eyebrows" stroke="#e9afaf"/>
+    <path id="svg_96" d="m44287.74149,15708.43671c-6,0 -13,0 -23,2l-14,3l2,15l7,2c3,5 1,10 2,18c3,28 12,34 26,35c8,1 23,3 33,-1s19,-10 25,-18c6,-9 6,-18 10,-26c3,-5 8,-4 10,0c3,8 4,17 10,26c6,8 15,14 24,18c11,4 26,2 34,1c14,-1 23,-7 26,-35c1,-8 -2,-13 2,-18l7,-2l2,-15l-15,-3c-15,-3 -23,-2 -34,-2l-13,0l-25,4c-8,2 -15,7 -23,6c-8,0 -15,-5 -23,-6l-25,-4l-25,0z" class="shades-frame" stroke="null"/>
+    <path id="svg_95" fill="#333333" d="m44295.74149,15713.43671c-10,1 -25,1 -28,13c-3,15 -3,32 6,45c7,11 23,9 35,9c19,-1 35,-16 40,-34c2,-8 4,-14 1,-19c-6,-10 -20,-12 -31,-13l-23,-1z" class="lens" stroke="null"/>
+    <path id="svg_94" d="m44266.74149,15717.43671a4,2 0 0 1 -4,2a4,2 0 0 1 -4,-2a4,2 0 0 1 4,-1a4,2 0 0 1 4,1" class="shades-dot" stroke="null"/>
+    <path id="svg_93" fill="#333333" d="m44425.74149,15713.43671c10,1 24,1 28,13c3,15 3,32 -6,45c-7,11 -23,9 -35,9c-19,-1 -35,-16 -40,-34c-2,-8 -4,-14 -1,-19c6,-10 20,-12 31,-13l23,-1z" class="lens" stroke="null"/>
+    <path id="svg_92" d="m44454.74149,15717.43671a4,2 0 0 0 4,2a4,2 0 0 0 4,-2a4,2 0 0 0 -4,-1a4,2 0 0 0 -4,1" class="shades-dot" stroke="null"/>
+    <g id="svg_88" clip-path="url(#svg_89)" stroke="null">
+     <use x="44210.741495" y="14853.436704" id="svg_91" xlink:href="#svg_86" width="100%" height="100%" stroke="null"/>
+     <use x="44210.741495" id="svg_90" y="15137.436704" xlink:href="#svg_86" width="100%" height="100%" stroke="null"/>
+    </g>
+    <g id="svg_83" clip-path="url(#svg_84)" stroke="null">
+     <use id="svg_87" x="44314.741495" y="14853.436704" xlink:href="#svg_86" width="100%" height="100%" stroke="null"/>
+     <use id="svg_85" x="44314.741495" y="15137.436704" xlink:href="#svg_86" width="100%" height="100%" stroke="null"/>
+    </g>
+    <path id="svg_82" d="m44311.74149,15714.43671l-19,66l17,0l18,-65l-16,-1zm4,0l-4,0l-3,1l-18,59l6,5l19,-65z" class="lens__shine" stroke="null"/>
+   </g>
+  </g>
+  <text fill="#000000" stroke="null" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="222.5" y="421.22818" id="svg_158" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve"/>
+  <defs>
+   <clipPath id="svg_32" clipPathUnits="userSpaceOnUse">
+    <path id="svg_33" d="m963.8282,354.68725c-6.53,0.65 -16.33,0.65 -18.29,8.49c-1.96,9.79 -1.96,20.9 3.92,29.39c4.57,7.18 15.02,5.87 22.86,5.87c12.41,-0.65 22.86,-10.45 26.12,-22.2c1.31,-5.23 2.62,-9.15 0.66,-12.41c-3.92,-6.53 -13.06,-7.84 -20.25,-8.49l-15.02,-0.65z"/>
+   </clipPath>
+   <clipPath id="svg_30" clipPathUnits="userSpaceOnUse">
+    <path id="svg_31" d="m1048.7382,354.68725c6.53,0.65 15.67,0.65 18.28,8.49c1.96,9.79 1.96,20.9 -3.92,29.39c-4.57,7.18 -15.02,5.87 -22.86,5.87c-12.4,-0.65 -22.85,-10.45 -26.12,-22.2c-1.31,-5.23 -2.61,-9.15 -0.65,-12.41c3.92,-6.53 13.06,-7.84 20.24,-8.49l15.03,-0.65z"/>
+   </clipPath>
+  </defs>
+  <style transform="matrix(0.012345679196310633,0,0,0.012345679196310633,0,0) ">tspan { white-space:pre }
+		.shp0 { fill: none } 
+		.shp1 { fill: #1e1e1e } 
+		.shp2 { fill: #56ffaa } 
+		.shp3 { fill: #000000 } 
+		.shp4 { fill: #88888c } 
+		.shp5 { fill: #4d4d4d;stroke: #000000;stroke-width: 2.045 } 
+		.txt6 { font-size: 32px;fill: #000000;font-family: "Helvetica" } 
+		.shp7 { fill: none;stroke: #e9afaf;stroke-linecap:round;stroke-linejoin:round;stroke-width: 1.959 } 
+		.txt8 { font-size: 47px;fill: #56ffaa;font-weight: 700;font-family: "Bender-Bold", "Bender" }</style>
+  <defs>
+   <clipPath clipPathUnits="userSpaceOnUse" id="svg_71">
+    <path d="m963.8282,354.68725c-6.53,0.65 -16.33,0.65 -18.29,8.49c-1.96,9.79 -1.96,20.9 3.92,29.39c4.57,7.18 15.02,5.87 22.86,5.87c12.41,-0.65 22.86,-10.45 26.12,-22.2c1.31,-5.23 2.62,-9.15 0.66,-12.41c-3.92,-6.53 -13.06,-7.84 -20.25,-8.49l-15.02,-0.65z" id="svg_72"/>
+   </clipPath>
+   <clipPath clipPathUnits="userSpaceOnUse" id="svg_69">
+    <path d="m1048.7382,354.68725c6.53,0.65 15.67,0.65 18.28,8.49c1.96,9.79 1.96,20.9 -3.92,29.39c-4.57,7.18 -15.02,5.87 -22.86,5.87c-12.4,-0.65 -22.85,-10.45 -26.12,-22.2c-1.31,-5.23 -2.61,-9.15 -0.65,-12.41c3.92,-6.53 13.06,-7.84 20.24,-8.49l15.03,-0.65z" id="svg_70"/>
+   </clipPath>
+  </defs>
+  <style transform="matrix(0.006944469693657196,0,0,0.006944469693657196,0,0) ">tspan { white-space:pre }
+		.shp0 { fill: none } 
+		.shp1 { fill: #1e1e1e } 
+		.shp2 { fill: #56ffaa } 
+		.shp3 { fill: #000000 } 
+		.shp4 { fill: #88888c } 
+		.shp5 { fill: #4d4d4d;stroke: #000000;stroke-width: 2.045 } 
+		.txt6 { font-size: 32px;fill: #000000;font-family: "Helvetica" } 
+		.shp7 { fill: none;stroke: #e9afaf;stroke-linecap:round;stroke-linejoin:round;stroke-width: 1.959 } 
+		.txt8 { font-size: 47px;fill: #56ffaa;font-weight: 700;font-family: "Bender-Bold", "Bender" }</style>
+  <defs>
+   <clipPath id="svg_169" clipPathUnits="userSpaceOnUse">
+    <path id="svg_170" d="m963.8282,354.68725c-6.53,0.65 -16.33,0.65 -18.29,8.49c-1.96,9.79 -1.96,20.9 3.92,29.39c4.57,7.18 15.02,5.87 22.86,5.87c12.41,-0.65 22.86,-10.45 26.12,-22.2c1.31,-5.23 2.62,-9.15 0.66,-12.41c-3.92,-6.53 -13.06,-7.84 -20.25,-8.49l-15.02,-0.65z"/>
+   </clipPath>
+   <clipPath id="svg_167" clipPathUnits="userSpaceOnUse">
+    <path id="svg_168" d="m1048.7382,354.68725c6.53,0.65 15.67,0.65 18.28,8.49c1.96,9.79 1.96,20.9 -3.92,29.39c-4.57,7.18 -15.02,5.87 -22.86,5.87c-12.4,-0.65 -22.85,-10.45 -26.12,-22.2c-1.31,-5.23 -2.61,-9.15 -0.65,-12.41c3.92,-6.53 13.06,-7.84 20.24,-8.49l15.03,-0.65z"/>
+   </clipPath>
+  </defs>
+  <style transform="matrix(0.006944469693657196,0,0,0.006944469693657196,0,0) ">tspan { white-space:pre }
+		.shp0 { fill: none } 
+		.shp1 { fill: #1e1e1e } 
+		.shp2 { fill: #56ffaa } 
+		.shp3 { fill: #000000 } 
+		.shp4 { fill: #88888c } 
+		.shp5 { fill: #4d4d4d;stroke: #000000;stroke-width: 2.045 } 
+		.txt6 { font-size: 32px;fill: #000000;font-family: "Helvetica" } 
+		.shp7 { fill: none;stroke: #e9afaf;stroke-linecap:round;stroke-linejoin:round;stroke-width: 1.959 } 
+		.txt8 { font-size: 47px;fill: #56ffaa;font-weight: 700;font-family: "Bender-Bold", "Bender" }</style>
+  <defs>
+   <clipPath id="svg_203" clipPathUnits="userSpaceOnUse">
+    <path id="svg_204" d="m963.8282,354.68725c-6.53,0.65 -16.33,0.65 -18.29,8.49c-1.96,9.79 -1.96,20.9 3.92,29.39c4.57,7.18 15.02,5.87 22.86,5.87c12.41,-0.65 22.86,-10.45 26.12,-22.2c1.31,-5.23 2.62,-9.15 0.66,-12.41c-3.92,-6.53 -13.06,-7.84 -20.25,-8.49l-15.02,-0.65z"/>
+   </clipPath>
+   <clipPath id="svg_201" clipPathUnits="userSpaceOnUse">
+    <path id="svg_202" d="m1048.7382,354.68725c6.53,0.65 15.67,0.65 18.28,8.49c1.96,9.79 1.96,20.9 -3.92,29.39c-4.57,7.18 -15.02,5.87 -22.86,5.87c-12.4,-0.65 -22.85,-10.45 -26.12,-22.2c-1.31,-5.23 -2.61,-9.15 -0.65,-12.41c3.92,-6.53 13.06,-7.84 20.24,-8.49l15.03,-0.65z"/>
+   </clipPath>
+  </defs>
+  <style transform="matrix(0.006944469693657196,0,0,0.006944469693657196,0,0) ">tspan { white-space:pre }
+		.shp0 { fill: none } 
+		.shp1 { fill: #1e1e1e } 
+		.shp2 { fill: #56ffaa } 
+		.shp3 { fill: #000000 } 
+		.shp4 { fill: #88888c } 
+		.shp5 { fill: #4d4d4d;stroke: #000000;stroke-width: 2.045 } 
+		.txt6 { font-size: 32px;fill: #000000;font-family: "Helvetica" } 
+		.shp7 { fill: none;stroke: #e9afaf;stroke-linecap:round;stroke-linejoin:round;stroke-width: 1.959 } 
+		.txt8 { font-size: 47px;fill: #56ffaa;font-weight: 700;font-family: "Bender-Bold", "Bender" }</style>
+  <text font-weight="bold" transform="matrix(1.6846492165683455,0,0,1.6846492165683455,-37.74754402912549,-27.48622291282328) " xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="32" id="svg_209" y="50.911455" x="21.25106" stroke-width="0" fill="#56ffaa">&lt; /bMicheal &gt;</text></g>
+</svg>
