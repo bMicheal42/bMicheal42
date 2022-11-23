@@ -4,7 +4,8 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">
 
-📌 My Skills
+📌 My Skills:
+
 Groovy, C/C++, Clojure, Java, K8s, Docker
 
 ## Some of my NO NDA projects 😄 &#128187;
