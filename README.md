@@ -6,7 +6,7 @@
 
 📌 My Skills:
 
-Groovy, C/C++, Clojure, Java, K8s, Docker
+Groovy, C/C++, Java, K8s, Docker
 
 ## Some of my NO NDA projects 😄 &#128187;
 <!---
